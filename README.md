@@ -32,6 +32,12 @@ If you want to delete some blog, can use delete icon. It redirect Home page.
 
 >Before you run this code, make sure run this command.
 
+**npm install**
+
+you should use two terminal
+
+(example - one for - run npx json serve command and other(can use windows power shell) for npm start)
+
 **npx json-server --watch data/db.json**
 
 >To Run Project
